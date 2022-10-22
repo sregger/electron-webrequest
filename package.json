@@ -1,0 +1,15 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Testing out the WebRequest",
+  "author": "Shane Gannon",
+  "license": "ISC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron . --trace-warnings --inspect-brk"
+  },
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
